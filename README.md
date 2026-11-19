@@ -1,98 +1,42 @@
-<!--
-**Wellington-Barbosa/Wellington-Barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Wellington Barbosa
 
-Here are some ideas to get you started:
+**Engenharia de dados, integrações e soluções inteligentes.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho 13 anos de carreira em tecnologia, a maior parte na saúde suplementar. Transformo processos complexos em soluções
+que a operação realmente usa: pipelines de dados, integrações entre sistemas e automações, com foco em segurança,
+rastreabilidade e em provar que o dado está certo.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+**[wellingtonbarbosa.dev.br](https://wellingtonbarbosa.dev.br/?src=github)** — meu portfólio, com cases, método de trabalho e blog
+(também [em inglês](https://wellingtonbarbosa.dev.br/en/?src=github)).
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Wellington+Barbosa;I+am+32+years+old;I+currently+live+in+Rio+Verde+%2F+GO;Master+in+Database+from+UFG" alt="Typing SVG">
-  </a>
-</div>
+## No que eu trabalho
 
+- **Engenharia de dados:** extração, tratamento e validação de dados em Python, com orquestração e carga em Oracle e PostgreSQL.
+- **Integrações e APIs:** sincronização entre ERP e sistemas de terceiros, com fila de eventos, simulação antes de gravar e trilha de auditoria.
+- **Automação:** rotinas que tiram a operação do manual, com testes, logs e rede de proteção.
+- **Segurança e perícia digital:** pós-graduado em Computação Forense; atenção a hash, integridade e evidência.
 
-<h2 align="center">Techs</h2>
+**Stack do dia a dia:** Python · Oracle · PostgreSQL · SQL Server · Docker · Linux · Apache Airflow · APIs e Web Services · Power BI · Git
 
-###
+## Projetos em destaque
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-</div>
+O trabalho profissional é confidencial e fica descrito, sem dados internos, nos cases do portfólio. Aqui ficam os projetos
+de estudo e pesquisa que posso mostrar em código:
 
-###
+| Projeto | O que mostra |
+|---|---|
+| [password-hash-battle](https://github.com/Wellington-Barbosa/password-hash-battle) | Benchmark de **bcrypt vs Argon2id** (tempo, latência p95 e custo de ataque), com relatório HTML interativo. Node.js. |
+| [brute-force-simulator](https://github.com/Wellington-Barbosa/brute-force-simulator) | Simulador de ataque de dicionário em ambiente controlado, para estudo de segurança. Python e Flask. |
+| [analise_de_dados_gov](https://github.com/Wellington-Barbosa/analise_de_dados_gov) | Análise e visualização das despesas dos órgãos do governo federal em 2024, a partir do Portal da Transparência. Python e Jupyter. |
 
-<h2 align="center">Statistics</h2>
+## Contato
 
-###
+- Portfólio e blog: [wellingtonbarbosa.dev.br](https://wellingtonbarbosa.dev.br/?src=github)
+- LinkedIn: [wellington-barbosa-dev](https://www.linkedin.com/in/wellington-barbosa-dev/)
+- E-mail: [contato@wellingtonbarbosa.dev.br](mailto:contato@wellingtonbarbosa.dev.br)
+- Instagram: [@developer.wellington](https://www.instagram.com/developer.wellington)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wellington-Barbosa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Statics%20GitHub" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wellington-Barbosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2&custom_title=Most%20used%20languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Wellington-Barbosa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=4&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wellington-Barbosa&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
-</div>
+---
 
-###
-
-<h2 align="center">Social Media</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/wellington-barbosa2908/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/wellington.welly/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:wellingtonwelly123@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://w.app/DvNMac" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="center">Visitors Count</h2>
-
-###
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wellington-Barbosa}/count.svg" /></p> 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
+*English: data engineer and integration developer with 13 years of experience, mostly in private health insurance. My
+portfolio is also available in English at [wellingtonbarbosa.dev.br/en](https://wellingtonbarbosa.dev.br/en/?src=github).*
